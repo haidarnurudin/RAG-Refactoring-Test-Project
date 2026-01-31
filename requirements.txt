@@ -1,0 +1,5 @@
+fastapi==0.128.0
+langgraph==1.0.7
+pydantic==2.12.5
+qdrant_client==1.16.2
+uvicorn>=0.20.0
