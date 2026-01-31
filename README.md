@@ -1,4 +1,4 @@
-# RAG API Refactoring
+# RAG Refactoring
 
 Proyek ini adalah hasil refaktorisasi sistem RAG menggunakan FastAPI, LangGraph, dan Qdrant dengan fokus pada *Clean Architecture* dan *Dependency Injection*.
 
